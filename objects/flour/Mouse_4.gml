@@ -1,5 +1,5 @@
-if (chef.inter_name != noone){
-	if (chef.image_index == 0) {
-		chef.image_index = chef.carrying[$ "flour"]	
+if (chef.inter_name == "flour"){
+	if (chef.item_carried == "nothing") {
+		chef.set_carry("flour");
 	}
 }

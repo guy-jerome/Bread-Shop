@@ -1,5 +1,5 @@
-if (chef.inter_name != noone){
-	if (image_index == 1) {
-		image_index = 2
+if (chef.inter_name == "work_bench"){
+	if (state == "flour") {
+		set_state("dough");
 	}
 }
