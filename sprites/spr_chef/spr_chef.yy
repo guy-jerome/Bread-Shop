@@ -47,8 +47,8 @@
   },
   "origin":9,
   "parent":{
-    "name":"Bread Shop",
-    "path":"Bread Shop.yyp",
+    "name":"sprites",
+    "path":"folders/sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
