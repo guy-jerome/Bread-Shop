@@ -10,3 +10,4 @@ if (chef.inter_name == "work_bench"){
 		set_state("dough")
 	}
 }
+
