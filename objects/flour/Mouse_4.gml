@@ -1,5 +1,5 @@
 if (chef.inter_name == "flour"){
-	if (chef.item_carried == "nothing") {
-		chef.set_carry("flour");
+	if (chef.state == "nothing") {
+		chef.set_state("flour");
 	}
 }
