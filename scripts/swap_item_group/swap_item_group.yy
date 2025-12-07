@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"move_item",
+  "%Name":"swap_item_group",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"move_item",
+  "name":"swap_item_group",
   "parent":{
     "name":"Bread Shop",
     "path":"Bread Shop.yyp",

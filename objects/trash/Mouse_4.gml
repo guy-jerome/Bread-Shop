@@ -1,3 +1,3 @@
-if (chef.inter_name != noone){
-	chef.image_index = 0;	
+if (chef.inter_name = "trash"){
+	chef.set_state("nothing");	
 }

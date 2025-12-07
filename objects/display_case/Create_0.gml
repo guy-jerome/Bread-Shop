@@ -1,3 +1,5 @@
-image_index = 0;
-image_speed = 0;
-bread_number = 0;
+event_inherited()
+max_inventory = 5;
+number_of_items = 0;
+item_type = "nothing"; 
+image_state = {bread:0};
